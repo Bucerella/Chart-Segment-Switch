@@ -1,0 +1,6 @@
+framework module Pods_SimplePieChart {
+  umbrella header "Pods-SimplePieChart-umbrella.h"
+
+  export *
+  module * { export * }
+}
