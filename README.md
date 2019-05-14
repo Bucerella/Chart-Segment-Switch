@@ -3,7 +3,7 @@
 ## Examples_UI 
 
 <i>SegmentedControl ve Swicth kullanımı programmatically olarak denenmiştir. StoryBoard'dan oldukça kolay kollanımı var iken ben fantastik alemlerde dolandığım için programmatically olarak denedim.
-Pod dosyası olarak <b>"TinyConstraints"</b> kullanıldı. İsteyen <b>"SnapKit"</b> kullabilir. O daha kullanışlı ve kolay, fikrimce.</i>
+Pod dosyası olarak <b>"TinyConstraints"</b> kullanıldı. İsteyen <b>"SnapKit"</b> kullanabilir. O daha kullanışlı ve kolay, fikrimce.</i>
 
 
 
