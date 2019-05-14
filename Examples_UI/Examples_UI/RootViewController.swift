@@ -55,8 +55,10 @@ class RootViewController: UIViewController {
         view.addSubview(themeSwitch)  //View'e buttonu ekledi.
         view.addSubview(btn)
         themeSwitch.centerInSuperview() //themeSwitch'i superView'in ortasına çekti.
-        btn.topToBottom(of: themeSwitch)
         
+        btn.topToBottom(of: themeSwitch)
+        btn.leftAnchor.constraint(equalTo: themeSwitch.rightAnchor, constant: -125).isActive = true
+        btn.topAnchor.constraint(equalTo: themeSwitch.bottomAnchor, constant: -100).isActive = true
     }
 
 
